@@ -13,7 +13,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [multiprocessing tutorial](https://www.paulnorvig.com/guides/parallel-programming-with-multiprocessing-in-python.html)
 
 ### Aufgaben
-* [Aufgabe 1 - Parallel Matrix Multiplication](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_1/Aufgabe_1.ipynb)
+* [Aufgabe 1 - Parallel Matrix Multiplication](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_1/Aufgabe_1.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_1/Aufgabe_1_solution.ipynb)
 </details>
 
 <details>
