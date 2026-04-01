@@ -35,7 +35,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 <img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/75/why-linux-2-2048.jpg?cb=1669158512" width=640>
 
 ### Part I - Linux Shell
-* [Start here](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_Linux/01_Working_with_the_Linux_Shell/00_Intro.md)
+* [Start here](./block_Linux/01_Working_with_the_Linux_Shell/00_Intro.md)
 
 ### Part II - Bash Scripting (optional)
 * [Start here](https://github.com/keuperj/DataEngineering24/blob/main/week_9/02_Intro_to_Bash_Scripting/001-introduction-to-bash.md)
