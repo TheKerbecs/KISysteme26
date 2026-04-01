@@ -38,7 +38,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Start here](./block_Linux/01_Working_with_the_Linux_Shell/00_Intro.md)
 
 ### Part II - Bash Scripting (optional)
-* [Start here](https://github.com/keuperj/DataEngineering24/blob/main/week_9/02_Intro_to_Bash_Scripting/001-introduction-to-bash.md)
+* [Start here](./block_Linux/02_Intro_to_Bash_Scripting/001-introduction-to-bash.md)
 
 ### Helpfull stuff
 * [E-Book Linux Shell](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793425/mod_resource/content/1/TenStepsToLinuxSurvival.pdf)
