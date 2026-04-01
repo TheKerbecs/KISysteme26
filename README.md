@@ -53,6 +53,8 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Open new Colab notebook](https://colab.research.google.com/)
 ![](./block_Linux/01_Working_with_the_Linux_Shell/images/Colab_Shell.png)
 
+## NotebookLM
+* [Chat with all soruces + quiz + slides](https://notebooklm.google.com/notebook/264f30cd-e1dc-44a9-a4df-42fd22ba80a7)
 
 </details>
  
