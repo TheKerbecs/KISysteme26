@@ -26,3 +26,36 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 * [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce.ipynb) 
 </details>
+
+<details>
+<summary> <H2>Interlude - Surviving on the Linux Systems </H2><BR></summary>
+
+
+
+<img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/75/why-linux-2-2048.jpg?cb=1669158512" width=640>
+
+### Part I - Linux Shell
+* [Start here](./block_Linux/01_Working_with_the_Linux_Shell/00_Intro.md)
+
+### Part II - Bash Scripting (optional)
+* [Start here](./block_Linux/02_Intro_to_Bash_Scripting/001-introduction-to-bash.md)
+
+### Helpfull stuff
+* [E-Book Linux Shell](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793425/mod_resource/content/1/TenStepsToLinuxSurvival.pdf)
+* [E-Book Bash Scripting](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793426/mod_resource/content/1/introduction-to-bash-scripting-light.pdf)
+* [E-Book Introduction to Linux](https://tldp.org/LDP/intro-linux/intro-linux.pdf)
+* [collection of bash script examples](https://github.com/ruanyf/simple-bash-scripts)
+
+### Exercises (optional)
+* [Exercises](./block_Linux/exercises.md)
+
+### Linux Shell in Colab
+* [Open new Colab notebook](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_Linux/linux.ipynb)
+![](./block_Linux/01_Working_with_the_Linux_Shell/images/Colab_Shell.png)
+
+## NotebookLM
+* [Chat with all soruces + quiz + slides](https://notebooklm.google.com/notebook/264f30cd-e1dc-44a9-a4df-42fd22ba80a7)
+
+</details>
+ 
+</details>
