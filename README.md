@@ -20,11 +20,11 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 <summary> <H2> Block 2 - MapReduce </H2><BR></summary>
 
 ### Labor
-* [Python MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_MapReduce.ipynb) 
+* [Python MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_MapReduce.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_MapReduce_solution.ipynb) 
 
 ### Aufgaben
 
-* [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce.ipynb) 
+* [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce_solution.ipynb)
 </details>
 
 <details>
@@ -55,6 +55,15 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 ## NotebookLM
 * [Chat with all soruces + quiz + slides](https://notebooklm.google.com/notebook/264f30cd-e1dc-44a9-a4df-42fd22ba80a7)
+
+</details>
+
+<details>
+<summary> <H2> Block 3 - Hadoop </H2><BR></summary>
+
+### Labor
+* [MR Joblib](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB.ipynb)
+
 
 </details>
  
