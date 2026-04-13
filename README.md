@@ -59,12 +59,23 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 </details>
 
 <details>
-<summary> <H2> Block 3 - Hadoop </H2><BR></summary>
+<summary> <H2> Block 3 - Hadoop I </H2><BR></summary>
 
-### Labor
+### Labor + Aufgabe
 * [MR Joblib](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB.ipynb)
 
 
 </details>
  
+<details>
+<summary> <H2> Block 4 - Hadoop II </H2><BR></summary>
+
+### Labor
+
+* [PySpark](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/PySpark.ipynb)
+
+### Aufgabe
+* [Hive](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/Assignment_Hive.ipynb)
+
 </details>
+
