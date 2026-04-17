@@ -62,7 +62,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 <summary> <H2> Block 3 - Hadoop I </H2><BR></summary>
 
 ### Labor + Aufgabe
-* [MR Joblib](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB.ipynb)
+* [MR Joblib](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB_solution.ipynb)
 
 
 </details>
