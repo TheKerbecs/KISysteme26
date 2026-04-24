@@ -75,7 +75,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [PySpark](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/PySpark.ipynb)
 
 ### Aufgabe
-* [Hive](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/Assignment_Hive.ipynb)
+* [Hive](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/Assignment_Hive.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_4/Assignment_Hive_solution.ipynb)
 
 </details>
 
